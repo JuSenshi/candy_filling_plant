@@ -1,0 +1,17 @@
+RFID	KEYWORD1
+steppermotor	KEYWORD1
+servo	KEYWORD1
+ultrasonic KEYWORD1
+
+burst	KEYWORD2
+read	KEYWORD2
+convert	KEYWORD2
+measure	KEYWORD2
+move	KEYWORD2
+initialize	KEYWORD2
+scan	KEYWORD2
+read	KEYWORD2
+display	KEYWORD2
+forward	KEYWORD2
+backward	KEYWORD2
+motor_steps	KEYWORD2
