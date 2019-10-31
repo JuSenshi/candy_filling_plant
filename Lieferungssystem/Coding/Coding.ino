@@ -1,4 +1,4 @@
-// Julian Krieger, Lieferroboter, IR - Ansteuerung über 
+// Lieferroboter
 
 //Pins deklarieren
 const int links_vorwaerts = 3;
